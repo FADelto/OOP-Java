@@ -1,2 +1,2 @@
 # OOP-Java
-MIREA
+MIREA 3sem
